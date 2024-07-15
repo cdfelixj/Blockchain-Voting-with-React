@@ -17,7 +17,6 @@ module.exports = {
          accounts: [`0x${PRIVATE_KEY}`],
          gas: 210000000,
          gasPrice: 800000000000,
-         remainingTime: 86400
       }
    },
 }
